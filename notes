@@ -1,2 +1,9 @@
 css zen garden
 colours.neilorangepeel.com
+setInterval()
+patatap
+document.getElementById()
+document.getElementByClassName()
+document.getElementByTagName()
+document.querySelector()
+document.querySelectorAll()
