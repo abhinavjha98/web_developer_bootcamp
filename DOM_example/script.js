@@ -8,3 +8,4 @@ var tags = document.getElementsByTagName("li");
 console.log(tags[0]);
 
 var tagss = document.querySelector('#highlight');
+console.log(tagss);
